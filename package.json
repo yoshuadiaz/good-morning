@@ -1,0 +1,12 @@
+{
+  "name": "good-morning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "keywords": [],
+  "author": "Yoshua Díaz <yoshua.sdiaz@gmail.com>",
+  "license": "MIT"
+}
